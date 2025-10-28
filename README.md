@@ -2,7 +2,7 @@
 
 Welcome to the official GitHub repository of my personal portfolio website! This site showcases my skills, experience, certifications, and projects as a **UI/UX Designer** and **Front-End Developer**.
 
-🔗 **Live Site:** [Click here to visit](https://Jassi220205.github.io/portfolio/)  
+🔗 **Live Site:** [Click here to visit](https://Jassi220205.github.io/Portfolio/)  
 📄 **Resume Download:** [Available on Homepage](#)
 
 ---
